@@ -6,7 +6,7 @@ This is repository for our group reading, which treats マスタリングTCP/IP 
 You must not commit hidden system files, such as ```.DS_Store or Thumbs.db```.
 I strongly recommennd set .gitignore_global. For details, see below documents.  
 Japanese -> [gitignore に書くべきでないものは gitignore_global へ](http://qiita.com/elzup/items/4c92a2abdab56db3fb4e)  
-English -> [Atlassian git tutotials gitignore] (https://www.atlassian.com/git/tutorials/gitignore)
+English -> [Atlassian git tutotials gitignore] (https://www.atlassian.com/git/tutorials/gitignore)  
 
 ## Filename
 File name must named below rule.
